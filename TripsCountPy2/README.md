@@ -8,5 +8,8 @@ The tripsCountpy2.py file contains functions for further processing of the read 
 
 The orfQuant.py script contains the implementation of the ORF quant-like algorithm described in section 2.7 of the thesis. 
 
+The function_timer script was used to get the figures for table 1.
 
-To run these scripts copy the data from the data directory into this directory (or alter the paths to the files in the code). This script will require the use of python 2 and the installation of sqlite and sqlitedict modules
+To run these scripts copy the data from the data directory into this directory (or alter the paths to the files in the code). This script will require the use of python 2 and the installation of sqlite and sqlitedict modules. 
+
+
