@@ -12,7 +12,7 @@ Return a string in the single_transcript_routes.py scripts Query() function now 
 
 Made change in JavaScript common.js to replace type with coverage in table column headers of the transcript table. 
 
-# --------------------------------------------- FROM TRIPS-VIZ README GITHUB -------------------------------------------------------------------
+# -------------- FROM TRIPS-VIZ README GITHUB --------------
 
 
 
